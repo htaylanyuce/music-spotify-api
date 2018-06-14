@@ -1,0 +1,29 @@
+body{
+  margin-top: 100px;
+  background-color: black;
+}
+
+.form-group,.title{
+  display: block;
+  width: 80%;
+  margin-left: 10%;
+}
+.title
+{
+  font-size:50px;
+}
+
+input{
+  height: 8%;
+}
+.features{
+  float: left;
+
+  color: white;
+  margin-left: 10%;
+  display: inline;
+}
+.image{
+   margin-left: 20%;
+   display: inline;
+}
